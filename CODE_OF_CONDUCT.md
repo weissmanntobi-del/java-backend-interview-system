@@ -12,4 +12,4 @@ Participants must:
 
 Harassment, discrimination, threats, spam, and deliberate copyright infringement are not acceptable.
 
-Report conduct concerns privately to `YOUR_SUPPORT_EMAIL`.
+Report conduct concerns privately to `weissmann.tobi@gmail.com`.
