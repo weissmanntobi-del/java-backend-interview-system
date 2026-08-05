@@ -14,7 +14,7 @@ By **Tobias Weissmann**
 
 ## Get the complete interview system
 
-**[Get the complete Java Backend Interview System](https://YOUR_GUMROAD_URL)**
+**[Get the complete Java Backend Interview System](https://tobiweissmann.gumroad.com/l/rntcs)**
 
 The complete product contains the structured books, question banks, production scenarios, SQL laboratory, architecture diagrams, study plans, scorecards, and Java companion project. This public repository provides selected samples, product documentation, release information, and a transparent errata channel. It does **not** contain the complete paid PDF collection.
 
@@ -103,7 +103,7 @@ For future updates, keep the book version, Gumroad release note, and GitHub tag 
 
 ## Corrections and support
 
-- Report a confirmed content problem through the [content-correction issue form](https://github.com/YOUR_GITHUB_USERNAME/java-backend-interview-system/issues/new?template=content_correction.yml).
+- Report a confirmed content problem through the [content-correction issue form](https://github.com/weissmann-tobi/java-backend-interview-system/issues/new?template=content_correction.yml).
 - Check [ERRATA.md](docs/ERRATA.md) before reporting a known issue.
 - For purchase or account questions, use `YOUR_SUPPORT_EMAIL` rather than a public GitHub issue.
 
