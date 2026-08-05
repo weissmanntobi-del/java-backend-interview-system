@@ -11,7 +11,7 @@
 
 Do not publish credentials, tokens, personal data, or exploitable details in a public issue.
 
-Send a private report to `YOUR_SECURITY_EMAIL` with:
+Send a private report to `weissmann-tobi@gmail.com` with:
 
 - the affected file or sample;
 - reproduction steps;
