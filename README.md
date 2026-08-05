@@ -10,8 +10,6 @@
 
 By **Tobias Weissmann**
 
-> Replace every `YOUR_*` placeholder before publishing this repository.
-
 ## Get the complete interview system
 
 **[Get the complete Java Backend Interview System](https://tobiweissmann.gumroad.com/l/rntcs)**
