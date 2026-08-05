@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Purchase and account support
+    url: mailto:YOUR_SUPPORT_EMAIL
+    about: Use private email for purchases, receipts, downloads, and account questions.
+  - name: Complete Java Backend Interview System
+    url: https://YOUR_GUMROAD_URL
+    about: View the complete paid product.

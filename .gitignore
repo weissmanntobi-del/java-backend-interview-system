@@ -1,0 +1,30 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# Java
+*.class
+build/
+target/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local product files - never commit paid content
+paid-content/
+private-content/
+customer-files/
+*.7z
+*.zip
+*.pdf
+*.docx
+
+# Temporary validation output
+.validation/

@@ -1,0 +1,43 @@
+name: Content correction
+description: Report a precise technical or editorial correction without reproducing paid content.
+title: "[Correction]: "
+labels:
+  - correction
+body:
+  - type: markdown
+    attributes:
+      value: Paraphrase the affected wording. Do not paste complete paid pages or substantial answer sections.
+  - type: input
+    id: version
+    attributes:
+      label: Product or repository version
+      placeholder: v1.0.0
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: File and section
+      placeholder: README.md, SQL sample, or paid filename and page number
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Confirmed problem
+      description: Explain the issue precisely.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Include a specification, official documentation, reproducible output, or clear reasoning.
+    validations:
+      required: true

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you reference this public companion repository, please cite it using this metadata.
+title: Java Backend Interview System - Public Companion Repository
+version: 1.0.0
+date-released: 2026-08-05
+type: software
+authors:
+  - family-names: Weissmann
+    given-names: Tobias
+abstract: >-
+  Public samples, package documentation, errata, and release information for
+  the Java Backend Interview System for Engineers with 2–5 Years of Experience.
+repository-code: https://github.com/YOUR_GITHUB_USERNAME/java-backend-interview-system
+url: https://YOUR_GUMROAD_URL
+license: MIT
