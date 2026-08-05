@@ -14,4 +14,3 @@ This project uses semantic versioning for repository releases. Book releases and
 - Public errata and correction process.
 - GitHub issue forms and pull-request template.
 - Automated Markdown, local-link, placeholder, and Java-sample checks.
-- Publishing and Gumroad-linking instructions.
