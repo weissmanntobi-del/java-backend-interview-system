@@ -12,7 +12,7 @@ By **Tobias Weissmann**
 
 ## Get the complete interview system
 
-**[Get the complete Java Backend Interview System](https://tobiweissmann.gumroad.com/l/rntcs)**
+**[Get the Complete Java Backend Interview System](https://tobiweissmann.gumroad.com/l/rntcs)**
 
 The complete product contains the structured books, question banks, production scenarios, SQL laboratory, architecture diagrams, study plans, scorecards, and Java companion project. This public repository provides selected samples, product documentation, release information, and a transparent errata channel. It does **not** contain the complete paid PDF collection.
 
